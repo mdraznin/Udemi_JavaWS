@@ -1,2 +1,1 @@
-# wsdlfirstws
-Udemi course assignment 1
+# Udemi Java Web Services course assignments.
